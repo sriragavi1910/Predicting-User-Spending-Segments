@@ -18,6 +18,3 @@ A machine learning model was developed to analyze user behavior data and classif
 
 ## Project Objective
 To predict user spending segments and help gaming businesses improve decision-making and revenue strategies.
-
-## Author
-Sri Ragavi
